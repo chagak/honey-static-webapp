@@ -1,4 +1,4 @@
-# honey-static-webapp
+
 # Static Website Hosting on AWS
 
 ## Project Overview
